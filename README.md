@@ -17,7 +17,8 @@ Cuarto proyecto de Alura Latam en el que el desafío será crear mi primer E-Com
 - Permite Navegar en varias secciones de la página. 
 
 #  Sitio Web AluraGueek.
-[Ahorcado](https://ingmarcela27.github.io/Alura-Challenge-Oracle-One-Logica-de-Programacion-Juego-del-ahorcado/)
+
+[AluraGueekHome] ( https://ingmarcela27.github.io/Alura-Reto-Oracle-One-Ecommerce-AluraGeek/)
 
 **Datos para Login**
 
