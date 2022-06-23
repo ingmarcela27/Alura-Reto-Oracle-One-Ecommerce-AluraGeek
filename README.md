@@ -24,12 +24,11 @@ Cuarto proyecto de Alura Latam en el que el desafío será crear mi primer E-Com
 
 Usuario:
 
-    manager@alurageek.com
+admin@alurageek.com
 
 Contraseña:
 
-    manageralura
-
+ adminalura
 
 
 #  Vista Previa | Ecommerce AluraGeek.
